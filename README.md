@@ -13,3 +13,16 @@
     README.md
     greeting.md
 ```
+# Random Big Header
+## Arbitrary Medium Header
+### Serendipitous Small Header
+
+* **Bold Text**
+* *Italicized Text*
+* Plain Text
+
+### Here is a table:
+| Peter | Paul  | Mary  |
+|-------|-------|-------|
+| Dog   | Frog  | Cat   |
+| Brown | Green | Black |
